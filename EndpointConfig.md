@@ -8,9 +8,6 @@ from time import gmtime, strftime
 import sagemaker
 ```
 
-    sagemaker.config INFO - Not applying SDK defaults from location: /etc/xdg/sagemaker/config.yaml
-    sagemaker.config INFO - Not applying SDK defaults from location: /home/sagemaker-user/.config/sagemaker/config.yaml
-
 
 ## Defining the objects
 
