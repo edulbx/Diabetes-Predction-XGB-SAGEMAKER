@@ -726,20 +726,6 @@ df.head()
 df.to_csv(raiz + 'dados_sinteticos.csv', header = False, index = False)
 ```
 
-## Fim
+## That's all folkes1
 
 
-```python
-!jupyter nbconvert --to markdown DataPrep.ipynb
-```
-
-    [NbConvertApp] Converting notebook DataPrep.ipynb to markdown
-    [NbConvertApp] Support files will be in DataPrep_files/
-    [NbConvertApp] Making directory DataPrep_files
-    [NbConvertApp] Writing 22245 bytes to DataPrep.md
-
-
-
-```python
-
-```
