@@ -726,6 +726,10 @@ df.head()
 df.to_csv(raiz + 'dados_sinteticos.csv', header = False, index = False)
 ```
 
-## That's all folkes1
+## That's all folks
 
 
+
+```python
+
+```
