@@ -122,12 +122,9 @@ Above we create the endpoint using the M5 Large, the same way we used for the tr
 sagemaker_session.create_endpoint(ENDPOINT_NAME, ENDPOINT_CONFIG_NAME)
 ```
 
-    -----!
+    -----! # this is the progress "bar"
 
-
-
-
-    'modelo-xgboost-endpoint-2024-09-11-18-26-04'
+    'modelo-xgboost-endpoint-2024-09-11-18-26-04' #genereted model
 
 
 
@@ -136,4 +133,5 @@ If  you go now to the "Endpoint" on SageMaker studio you will find this endpoint
 ![image.png](EndpointConfig_files/1e251cc9-ce57-4f02-b80b-912993117864.png)
 
 Now you can use it to work with other applications on AWS, APIs, etc.
+
 That's the end, thanks folks.
